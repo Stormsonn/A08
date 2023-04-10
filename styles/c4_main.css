@@ -1,6 +1,7 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
-    font-size: 100%;
+	font-size: 100%;
+	color: #800000;
 }
 header img {
 	float: left;
@@ -13,7 +14,7 @@ main {
 	clear: left;
 }
 
-main h1 {
+main h3 {
 	font-size: 130%;
 	text-indent: 30px;
 	font-style: italic;
