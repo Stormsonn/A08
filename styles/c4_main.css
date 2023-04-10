@@ -6,8 +6,10 @@ body {
 header img {
 	float: left;
 }
-header{
-	color: #800000;
+header h2 {
+	font-size: 175%;
+	color: var(--global-color-1);
+	text-indent: 30px;
 }
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
