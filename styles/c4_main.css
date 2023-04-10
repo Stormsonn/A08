@@ -1,20 +1,14 @@
-/* the styles for the elements */
 body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
 }
 
-/* the styles for the header */
 header img {
 	float: left;
 }
 
-/* the styles for the main content */
 main {
 	clear: left;
-}
-main h1 {
-	font-size: 150%;
 }
 main h2 {
 	font-size: 170%;
@@ -26,7 +20,6 @@ main h3 {
 	text-indent: 30px;
 }
 
-/* the styles for the footer */
 footer p {
 	text-align: center;
 	padding: 1em 0;
