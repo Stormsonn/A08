@@ -6,7 +6,7 @@ body {
 header img {
 	float: left;
 }
-header h2 {
+header{
 	color: #800000;
 }
 .shadow {
