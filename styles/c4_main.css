@@ -17,11 +17,17 @@ main h1 {
 	font-size: 150%;
 }
 main h2 {
-	color: var(--global-color-1);
-	font-size: 130%;
+	font-size: 170%;
+	color: ##800000;
+	text-indent: 30px;
 }
 main h3 {
-	font-size: 105%;
+	font-size: 130%;
+	text-indent: 30px;
 }
 
 /* the styles for the footer */
+footer p {
+	text-align: center;
+	padding: 1em 0;
+}
